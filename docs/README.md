@@ -4,6 +4,8 @@ meta:
  - name: description
    content: hello my is description
 ---
+# 努力活的像个人
+
 [[toc]]
 ## hello vuepress
 
